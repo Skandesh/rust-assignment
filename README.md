@@ -1,2 +1,2 @@
-All these exercises has been done from practice.rs
+All these exercises has been done from [practice.rs](practice.rs)
 
